@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import Card from "./components/card";
-import Navbar from "./Navbar";
+import Card from "./components/card.jsx";
+import Navbar from "./components/navbar.jsx";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 const Home = () => (

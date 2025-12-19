@@ -1,6 +1,4 @@
-// Navbar.jsx
 import React from "react";
-import { Link } from "react-router-dom"; // optional if using react-router
 
 const Navbar = () => {
   return (
