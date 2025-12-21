@@ -7,9 +7,9 @@ const Navbar = () => {
       <h2 style={styles.logo}>MyApp</h2>
       <ul style={styles.navLinks}>
         <li><Link to="/" style={styles.link}>Home</Link></li>
-        <li><Link to="/about" style={styles.link}>About</Link></li>
-        <li><Link to="/services" style={styles.link}>Services</Link></li>
-        <li><Link to="/contact" style={styles.link}>Contact</Link></li>
+        <li><Link to="#" style={styles.link}>About</Link></li>
+        <li><Link to="#" style={styles.link}>Services</Link></li>
+        <li><Link to="#" style={styles.link}>Contact</Link></li>
       </ul>
     </nav>
   );
